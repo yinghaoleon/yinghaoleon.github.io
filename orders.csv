@@ -1,2 +1,0 @@
-﻿Order_ID,Origin_Node,Destination_Node,Demand,Early_Time,Late_Time,Early_Cost,Late_Cost,Value
-K1,N33,N29,50,10,50,5000,5000,50000
